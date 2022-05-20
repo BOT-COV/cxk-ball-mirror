@@ -30,6 +30,7 @@ js/common.js
 js/game.js
 js/scene.js
 js/skill.js
+js/main.js
 
 NETWORK:
 https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css
