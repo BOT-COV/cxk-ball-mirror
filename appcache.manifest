@@ -24,13 +24,14 @@ images/paddle4_2.png
 images/paddle_1.png
 images/paddle_2.png
 images/screenshot1.png
-images/screenshot3.png
+images/screenshot2.png
 images/text.gif
 js/common.js
 js/game.js
 js/scene.js
 js/skill.js
 js/main.js
+app/cxk.apk
 
 NETWORK:
 https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css
